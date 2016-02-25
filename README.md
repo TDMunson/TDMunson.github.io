@@ -12,3 +12,4 @@ Tamera Munson Portfolio Website For ChiTech
 -git add .
 -git commit-m "NOTE"
 git push- u origin master# TDMunson.github.io
+# TDMunson.github.io
